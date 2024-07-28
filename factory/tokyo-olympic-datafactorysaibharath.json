@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-datafactorysaibharath",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4026ccb-eeee-4d56-9d31-54700bf7e80c",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
